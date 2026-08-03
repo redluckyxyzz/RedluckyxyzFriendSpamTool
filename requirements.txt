@@ -3,6 +3,4 @@ requests
 gunicorn
 pycryptodome
 realtime
-​urllib3
-​protobuf
 google
